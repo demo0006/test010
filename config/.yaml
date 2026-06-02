@@ -1,9 +1,0 @@
-repository:
-  name: 
-  type: 
-  description: 
-metadata:
-  team_owner: 
-  branch_protection: 
-  classification: 
-  output_file: config/.yaml
